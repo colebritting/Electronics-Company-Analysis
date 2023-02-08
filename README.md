@@ -14,4 +14,5 @@ What was their most successful month?
 What does month-to-month growth look like throughout the year?
 
 Data: https://www.kaggle.com/code/knightbearr/analysis-sales-data-knightbearr/data
+
 Tableau Visualization: https://public.tableau.com/app/profile/cole.britting/viz/ElectronicsCompanyAnalysis/ElectronicsAnalysis
